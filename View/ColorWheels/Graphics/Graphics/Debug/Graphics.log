@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Graphics\main.cpp(21,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Graphics\main.cpp(21,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Graphics\main.cpp(317,9): warning C4101: 'alpha': unreferenced local variable
+C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Graphics\main.cpp(318,12): warning C4101: 'y': unreferenced local variable
+C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Graphics\main.cpp(318,9): warning C4101: 'x': unreferenced local variable
+C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Graphics\main.cpp(440,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\C.S FILES\Year B semester B\graphic\View\ColorWheels\Graphics\Debug\Graphics.exe
