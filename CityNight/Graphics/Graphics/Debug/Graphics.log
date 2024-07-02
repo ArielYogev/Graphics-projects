@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(35,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(81,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(82,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(100,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(235,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Graphics\main.cpp(278,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Graphics.vcxproj -> C:\C.S FILES\Year B semester B\graphic\CityNight\Graphics\Debug\Graphics.exe
