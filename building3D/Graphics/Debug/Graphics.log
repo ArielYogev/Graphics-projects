@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(43,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(43,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(272,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(460,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(460,69): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(461,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(461,78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(462,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(462,70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C.S FILES\Year B semester B\graphic\building3D\Graphics\main.cpp(547,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\C.S FILES\Year B semester B\graphic\building3D\Debug\Graphics.exe
